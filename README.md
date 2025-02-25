@@ -22,4 +22,4 @@ Atualmente, trabalho como Analista de Dados e utilizo a plataforma DataCamp para
 
 📚 Reúne códigos desenvolvidos durante minha graduação, incluindo projetos em Java, Python, Cisco, entre outros.
 
-Estou sempre atento as novidades de Analytics e IA, e me dedico a aprender e me aprimoar em **Data Analytics!** 🚀 
+Estou sempre atento as novidades de Analytics e IA, e me dedico ao aprendizado contínuo em **Data Analytics!** 🚀 
