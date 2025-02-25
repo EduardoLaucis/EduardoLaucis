@@ -6,20 +6,20 @@ Atualmente, trabalho como Analista de Dados e utilizo a plataforma DataCamp para
 
 📌 Meu GitHub está estruturado em três frentes principais:
 
-*Projetos Profissionais (Principal)*
+**Projetos Profissionais (Principal)**
 
 📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI.
 
 🎯 Este é o repositório no qual foco ao criar projetos interessantes no meu tempo livre.
 
-*Guias*
+**Guias**
 
 📑 Repositório dedicado a materiais e tutoriais interessantes sobre Analytics.
 
 🔗 Inclui forks de repositórios públicos e arquivos criados a partir de estudos e cursos.
 
-*Projetos da Faculdade*
+**Projetos da Faculdade**
 
 📚 Reúne códigos desenvolvidos durante minha graduação, incluindo projetos em Java, Python, Cisco, entre outros.
 
-Estou sempre atento as novidades de Analytics e IA, e me dedico a aprender e me aprimoar em *Data Analytics!* 🚀 
+Estou sempre atento as novidades de Analytics e IA, e me dedico a aprender e me aprimoar em **Data Analytics!** 🚀 
