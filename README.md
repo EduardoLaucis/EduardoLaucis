@@ -10,7 +10,7 @@ Atualmente, trabalho como Analista de Dados e utilizo a plataforma DataCamp para
 
 📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI.
 
-🎯 Este é o repositório no qual foco ao criar projetos interessantes no meu tempo livre.
+🎯 Este é o meu repositório principal, aonde foco ao criar projetos interessantes no meu tempo livre.
 
 **Guias**
 
