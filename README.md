@@ -1,8 +1,8 @@
 🔹 Olá, bem-vindo ao meu perfil! 👋
 
-Sou formado em Sistemas de Informação pela FIAP e estou cursando minha primeira pós-graduação em Análise de Dados no INSPER. 🎓📊
+🎓 Sou formado em Sistemas de Informação pela FIAP e estou cursando minha primeira pós-graduação em Análise de Dados no INSPER. 
 
-Atualmente, trabalho como Analista de Dados e utilizo a plataforma DataCamp para me aprofundar nas principais tecnologias do setor. No momento, estou cursando a trilha "Data Analyst in Power BI". 🚀📈
+Atualmente, trabalho como Analista de Dados e utilizo a plataforma DataCamp para me aprofundar nas principais tecnologias do setor. No momento, estou cursando a trilha "Data Analyst in Power BI". 
 
 📌 Meu GitHub está estruturado em três frentes principais:
 
