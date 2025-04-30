@@ -2,7 +2,7 @@
 
 🎓 Sou formado em Sistemas de Informação pela FIAP e estou cursando minha primeira pós-graduação em Análise de Dados no INSPER. 
 
-Atualmente, trabalho como Analista de Dados e utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como o **[LinkedIn Learning](https://www.linkedin.com/learning/)**  para me aprofundar nas principais tecnologias do setor. 
+Atualmente, atuo como Analista de Dados e utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como o **[LinkedIn Learning](https://www.linkedin.com/learning/)**  para me aprofundar nas principais tecnologias do setor. 
 
 No momento, estou cursando a trilha "Data Analyst in Power BI". 
 
