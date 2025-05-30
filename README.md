@@ -8,16 +8,15 @@ Concluí recentemente a trilha "Data Analyst in Power BI" obtendo certificação
 
 <br>No momento, estou cursando um projeto prático envolvendo a arquitetura medallion para o MS Fabric. 
 
-📌 Meu GitHub está estruturado em três frentes principais:
+📌 Meu GitHub está estruturado da seguinte forma:
 
-**Projetos Profissionais (Principal)**
+**Projetos Práticos**
+📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI com bases públicas em sites como Kaggle.com.
 
-📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI.
-
-🎯 Este é o meu repositório principal, aonde foco ao criar projetos interessantes no meu tempo livre.
+🎯 Este é o meu repositório principal, aonde foco ao criar projetos interessantes no meu tempo livre e aprender de forma prática acerca das plataformas de TI.
 
 **Projetos da Faculdade**
 
-📚 Reúne códigos desenvolvidos durante minha graduação, incluindo projetos em Java, Python, Cisco, entre outros.
+📚 Reúne códigos e tutoriais relacionados a ferramentas/conceitos estudados durante minha graduação, incluindo Java, Python, Cisco, entre outros.
 
 Estou sempre atento as novidades de Analytics e IA, e me dedico ao aprendizado contínuo em **Data Analytics!** 🚀 
