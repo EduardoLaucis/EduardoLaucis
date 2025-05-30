@@ -4,7 +4,8 @@
 
 Atualmente, atuo como Analista de Dados e utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como a plataforma de mentoria de TI  **[Emprega Dados] para me aprofundar nas principais tecnologias do setor, além de me aprofundar em diversas newsletters acerca do tema.
 
-No momento, estou cursando a trilha "Data Analyst in Power BI". 
+Concluí recentemente a trilha "Data Analyst in Power BI" obtendo certificação PL-300.
+No momento, estou cursando um projeto prático envolvendo a arquitetura medallion para o MS Fabric. 
 
 📌 Meu GitHub está estruturado em três frentes principais:
 
