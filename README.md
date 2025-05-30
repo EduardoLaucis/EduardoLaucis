@@ -2,7 +2,7 @@
 
 🎓 Sou formado em Sistemas de Informação pela FIAP pós-graduado em Análise de Dados no INSPER. 
 
-Atualmente, atuo como Analista de Dados e utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como o **[LinkedIn Learning](https://www.linkedin.com/learning/)**  para me aprofundar nas principais tecnologias do setor. 
+Atualmente, atuo como Analista de Dados e utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como a plataforma de mentoria de TI  **[Emprega Dados] para me aprofundar nas principais tecnologias do setor, além de me aprofundar em diversas newsletters acerca do tema.
 
 No momento, estou cursando a trilha "Data Analyst in Power BI". 
 
@@ -13,12 +13,6 @@ No momento, estou cursando a trilha "Data Analyst in Power BI".
 📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI.
 
 🎯 Este é o meu repositório principal, aonde foco ao criar projetos interessantes no meu tempo livre.
-
-**Guias**
-
-📑 Repositório dedicado a materiais e tutoriais interessantes sobre Analytics.
-
-🔗 Inclui forks de repositórios públicos e arquivos criados a partir de estudos e cursos.
 
 **Projetos da Faculdade**
 
