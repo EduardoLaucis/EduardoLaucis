@@ -1,6 +1,6 @@
 🔹 Olá, bem-vindo ao meu perfil! 👋
 
-🎓 Sou formado em Sistemas de Informação pela FIAP pós-graduado em Análise de Dados no INSPER. 
+🎓 Sou formado em Sistemas de Informação pós-graduado em Análise de Dados.
 
 Atualmente, atuo como Analista de Dados e utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como a plataforma de mentoria de TI  **[Emprega Dados]** para me aprofundar nas principais tecnologias do setor, além de me aprofundar em diversas newsletters acerca do tema.
 
