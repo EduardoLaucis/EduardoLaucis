@@ -9,9 +9,10 @@ Concluí recentemente a trilha "Data Analyst in Power BI" obtendo certificação
 📌 Meu GitHub está estruturado da seguinte forma:
 
 **Projetos Práticos**
-📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI com bases públicas em sites como Kaggle.com.
+📂 Aqui, compartilho projetos pessoais que demonstram meu conhecimento técnico — desde a codificação em Python até a criação de dashboards no Power BI com datasets de sites públicos como
+como Kaggle.com (links na descrição do rep).
 
-🎯 Este é o meu repositório principal, aonde foco ao criar projetos interessantes no meu tempo livre e aprender de forma prática acerca das plataformas de TI.
+🎯 Aqui foco ao criar projetos interessantes no meu tempo livre e aprender de forma prática acerca das plataformas de TI.
 
 **Projetos da Faculdade**
 
