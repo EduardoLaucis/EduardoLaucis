@@ -4,7 +4,7 @@
 
 Atualmente, atuo como Analista de Dados e faço MBA em Data Science & Artificial Intelligence, utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como a plataforma de mentoria de TI  **[Emprega Dados]** para me aprofundar nas principais tecnologias do setor, além de me aprofundar em diversas newsletters acerca do tema.
 
-Concluí recentemente a trilha "Data Analyst in Power BI" obtendo certificação PL-300. <br>No momento, estou cursando trilhas recomendadas pelo MBA na Alura, com foco em estatística e ciência de dados em Python.
+Concluí recentemente a trilha "Data Analyst in Power BI" e obtive certificação PL-300. <br>No momento, estou cursando Pós-Graduação em Data Science & IA pela FIAP
 
 
 📌 Utilizo o GitHub para armazenar códigos me organizando da seguinte forma:
@@ -20,3 +20,6 @@ como Kaggle.com (links na descrição do rep).
 📚 Reúno códigos e tutoriais relacionados a ferramentas/conceitos estudados durante minha graduação e atualmente no meu MBA, incluindo Java, Python, Cisco, entre outros. 
 
 Estou sempre atento as novidades de Analytics e IA, e me dedico ao aprendizado contínuo em **Data Analytics!** 🚀 
+
+**Repositórios integrados com IA**
+É feita a integração do Github com o Claude code que permite criar,editar e publicar arquivos diretamente no repositório do Github.
