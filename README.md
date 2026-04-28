@@ -4,9 +4,6 @@
 
 Atualmente, atuo como Analista de Dados e faço MBA em Data Science & Artificial Intelligence, utilizo majoritariamente as plataformas de aprendizado **[DataCamp](https://www.datacamp.com/)** assim como a plataforma de mentoria de TI  **[Emprega Dados]** para me aprofundar nas principais tecnologias do setor, além de me aprofundar em diversas newsletters acerca do tema.
 
-Concluí recentemente a trilha "Data Analyst in Power BI" e obtive certificação PL-300. <br>No momento, estou cursando Pós-Graduação em Data Science & IA pela FIAP
-
-
 📌 Utilizo o GitHub para armazenar códigos me organizando da seguinte forma:
 
 **Projetos Práticos**
